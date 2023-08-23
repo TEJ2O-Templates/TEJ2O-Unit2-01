@@ -2,7 +2,7 @@
  *
  * Created by: Mr. Coxall
  * Created on: Sep 2020
- * This program ...
+ * This program shows your name
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, Mr. Coxall!')
